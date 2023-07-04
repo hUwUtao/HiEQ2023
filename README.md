@@ -2,6 +2,8 @@
 
 > ## All credits goes to [gh/azurenekowo](https://github.com/azurenekowo)!!!
 
+and her? scraper [to scrape data from tsdaucap?](https://github.com/azurenekowo/tsdaucap-scraper) (it took days to scrape all of those)
+
 ## Description
 
 Yes we have that exam to determine the high school we will study.
